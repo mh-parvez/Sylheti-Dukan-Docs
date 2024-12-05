@@ -74,7 +74,7 @@ The Sylheti-Dukan.com (সিলেটী দোকান) will function as a st
 - Manage products (add, edit, delete).  
 - Monitor and fulfill orders.  
 
-## 4. Non-Functional Requirements  
+## 4. Non-Functional Requirements 📍 
 
 ### 4.1 Performance Requirements  
 - Load time for each page must not exceed 2 seconds.  
