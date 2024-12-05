@@ -73,7 +73,7 @@ The Sylheti-Dukan.com (সিলেটী দোকান) will function as a st
 
 ### 3.5 Admin Panel Features
 
-### **Dashboard 📅**
+### **📅 Dashboard**
 The dashboard provides an overview of the platform’s key metrics, including:
 - **Summary Metrics**:
   - Current revenue.
@@ -85,13 +85,13 @@ The dashboard provides an overview of the platform’s key metrics, including:
   - Gender ratio of users.
   - Top transactions displayed in a table.
 
-### **Management Section 🧱**
+### **🧱 Management Section**
 Admins can manage core aspects of the platform, including:
 - **Products**: Add, edit, and delete items.
 - **Orders**: Track, update, and fulfill orders.
 - **Customers**: Manage user information and interactions.
 
-### **Charts Overview 📊**
+### **📊 Charts Overview**
 
 ### **Bar Charts**
 1. **Top Transactions & Top Customers**: Displays data for the last 6 months.
@@ -145,7 +145,7 @@ Admins can manage core aspects of the platform, including:
 ### 5.3 Database  
 - MongoDB for storing user, product, and order data.  
 
-### 5.5 Third-Party Integrations  
+### 5.4 Third-Party Integrations  
 - Payment gateway (Bkash Payment).  
 
 ## 6. Design Constraints 🛒 
