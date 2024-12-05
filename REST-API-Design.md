@@ -35,7 +35,7 @@
 - GET - /api/v1/payment/coupon/all ✨ Admin
 - DELETE - /api/v1/payment/coupon/:id ✨ Admin
 
-## Admin Dashboard
+### Admin Dashboard
 - GET - /api/v1/admin/dashboard/stats
 - GET - /api/v1/admin/dashboard/pie
 - GET - /api/v1/admin/dashboard/bar
