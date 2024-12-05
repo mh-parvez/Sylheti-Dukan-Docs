@@ -1,6 +1,7 @@
 # সিলেটী দোকান 🛍️
 - [Software Requirements Specification](README.md)
 - [REST API Endpoints](REST-API-Design.md)
+- [Wireframe or Mockup File](Wireframe-of-SD.md)
 
 ## Software Requirements Specification (SRS)  
 📑Project Name: সিলেটী দোকান   
