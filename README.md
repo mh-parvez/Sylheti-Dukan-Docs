@@ -1,6 +1,6 @@
 # সিলেটী দোকান 🛍️
 - [Software Requirements Specification](README.md)
-- [REST API Endpoints](https://github.com/mh-parvez/sylheti-dukan-docs/blob/main/README.md#software-requirements-specification-srs)
+- [REST API Endpoints](REST-API-Design.md)
 
 ## Software Requirements Specification (SRS)  
 📑Project Name: সিলেটী দোকান   
