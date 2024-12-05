@@ -70,9 +70,45 @@ The Sylheti-Dukan.com (সিলেটী দোকান) will function as a st
 - Checkout includes address entry and payment processing.  
 - Order details are saved and viewable in the user's profile.  
 
-### 3.5 Admin Panel  
-- Manage products (add, edit, delete).  
-- Monitor and fulfill orders.  
+### 3.5 Admin Panel Features
+
+## **Dashboard 📅**
+The dashboard provides an overview of the platform’s key metrics, including:
+- **Summary Metrics**:
+  - Current revenue.
+  - Total users.
+  - Total products.
+  - Recent transactions.
+- **Additional Insights**:
+  - Inventory ratio.
+  - Gender ratio of users.
+  - Top transactions displayed in a table.
+
+## **Management Section 🧱**
+Admins can manage core aspects of the platform, including:
+- **Products**: Add, edit, and delete items.
+- **Orders**: Track, update, and fulfill orders.
+- **Customers**: Manage user information and interactions.
+
+## **Charts Overview 📊**
+
+### **Bar Charts**
+1. **Top Transactions & Top Customers**: Displays data for the last 6 months.
+2. **Orders Throughout the Year**: Monthly order trends.
+
+### **Pie and Doughnut Charts**
+1. **Order Fulfillment Ratio**: Percentage of completed vs. pending orders.
+2. **User Age Group Distribution**: Breakdown of users by age group.
+3. **Product Category Ratio**: Distribution of products across categories.
+4. **Stock Availability**: Ratio of in-stock vs. out-of-stock products.
+5. **Revenue Distribution**: Revenue contribution by various sources.
+6. **Admin-to-Customer Ratio**: Proportion of admins to customers.
+
+### **Line Charts**
+1. **Active Users**: Tracks active users over the past 12 months.
+2. **Total Products (SKU)**: Monthly SKU count trends for the last year.
+3. **Total Revenue**: Revenue trends over the last 12 months.
+4. **Discounts Allotted**: Trends in discounts provided over the year.
 
 ## 4. Non-Functional Requirements 📍 
 
