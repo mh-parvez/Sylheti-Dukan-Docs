@@ -7,7 +7,7 @@
 👩🏻‍💻 Prepared By: Mehedi Hasan Parvez (Software Developer)    
 📆 Date: 15 Octobar 2024   
 
-## 1. Introduction 📍
+## 1. Introduction 🛒
 
 ### 1.1 Purpose  
 The objective of this document is to define the requirements for creating a Sylheti-Dukan.com (সিলেটী দোকান) using the MERN stack. This e-commerce platform will enable users to browse products, manage their accounts, add items to their cart, and complete purchases through a secure payment system.
@@ -26,7 +26,7 @@ The system will be scalable, user-friendly, and optimized for performance. To en
 - API: Application Programming Interface.  
 - CRUD: Create, Read, Update, Delete operations.   
 
-## 2. Overall Description 📍  
+## 2. Overall Description 🛒  
 
 ### 2.1 Product Perspective  
 The Sylheti-Dukan.com (সিলেটী দোকান) will function as a standalone web application. It will follow a modular design to ensure ease of maintenance and future scalability.  
@@ -52,7 +52,7 @@ The Sylheti-Dukan.com (সিলেটী দোকান) will function as a st
 - Reliable internet connection.  
 - Integration with "Bkash" for payments.  
 
-## 3. Functional Requirements 📍   
+## 3. Functional Requirements 🛒   
 
 ### 3.1 User Authentication  
 - Users must register and log in using email and password.  
@@ -111,7 +111,7 @@ Admins can manage core aspects of the platform, including:
 3. **Total Revenue**: Revenue trends over the last 12 months.
 4. **Discounts Allotted**: Trends in discounts provided over the year.
 
-## 4. Non-Functional Requirements 📍 
+## 4. Non-Functional Requirements 🛒
 
 ### 4.1 Performance Requirements  
 - Load time for each page must not exceed 2 seconds.  
@@ -133,7 +133,7 @@ Admins can manage core aspects of the platform, including:
 - API requests for cached data will first check the cache before querying the database.
 - Automatically clear outdated or expired cache entries.
 
-## 5. System Architecture 📍 
+## 5. System Architecture 🛒
 
 ### 5.1 Frontend  
 - React.js for the user interface.  
@@ -148,11 +148,11 @@ Admins can manage core aspects of the platform, including:
 ### 5.5 Third-Party Integrations  
 - Payment gateway (Bkash Payment).  
 
-## 6. Design Constraints  📍 
+## 6. Design Constraints 🛒 
 - The application must be built using the MERN stack.  
 - Deployment should use platforms like Vercel (frontend), Heroku (backend), and MongoDB Atlas (database).  
 
-## 7. Appendices 📍 
+## 7. Appendices 🛒 
 
 ### 7.1 Tools and Technologies  
 - Visual Studio Code, Postman, Git.  
